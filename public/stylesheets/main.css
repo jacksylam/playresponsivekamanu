@@ -40,3 +40,10 @@ body {
   font-weight: 700;
   color: #666;
 }
+
+.pueo {
+  background-image: url(../images/cover-pueo-page.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
